@@ -1,1 +1,2 @@
-# O-come-o-123
+#!data/data/com.termux/files/home/workpast/test/sh
+past.txt < 
